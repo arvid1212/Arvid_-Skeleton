@@ -1,14 +1,12 @@
 import React from "react";
 
-import Skeleton from "./Components/Skeleton/Skeleton";
-
+import Button from "./Components/Button/Button";
 
 export default function App() {
   return (
     <div>
-    <Skeleton/>
-
-    </div>
+        <Button/>
+   </div>
 
   )
 }
